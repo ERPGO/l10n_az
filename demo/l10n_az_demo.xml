@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<data noupdate="1">
+        <record id="erpgo" model="res.partner">
+            <field name="name">ERPGO MMC</field>
+            <field name="is_company">1</field>
+            <field name="street">C. Cabbarlı 44</field>
+            <field name="zip">AZ1033</field>
+            <field name="city">Bakı</field>
+            <field name="country_id" ref="base.az"/>
+            <field name="phone">+994 50 228 52 29</field>
+            <field name="website">http://www.erpgo.az</field>
+            <field name="email">info@erpgo.az</field>
+        </record>
+
+        <record id="res_partner_address_1" model="res.partner">
+            <field name="name">Cümşüd Sultanov</field>
+            <field name="parent_id" ref="erpgo"/>
+            <field name="email">jumshud@erpgo.az</field>
+            <field name="active">1</field>
+            <field name="type">contact</field>
+            <field name="street">Caspian Plaza 15-ci mərtəbə</field>
+            <field name="zip">AZ1033</field>
+            <field name="city">Bakı</field>
+            <field name="country_id" ref="base.az"/>
+        </record>
+    </data>
+</odoo>

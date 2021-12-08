@@ -1,0 +1,205 @@
+id,code,name,user_type_id/id,reconcile,tag_ids/id,chart_template_id/id
+az10,10,Qeyri-maddi aktivlər,account.data_account_type_fixed_assets,FALSE,,l10n_az
+az101,101,Qeyri-maddi aktivlərin dəyəri,account.data_account_type_fixed_assets,FALSE,,l10n_az
+az102,102,Qeyri-maddi aktivlər üzrə yığılmış amortizasiya və qiymətdəndüşmə zərərləri,account.data_account_type_fixed_assets,FALSE,,l10n_az
+az103,103,Qeyri-maddi aktivlərlə bağlı məsrəflərin kapitallaşdırılması,account.data_account_type_fixed_assets,FALSE,,l10n_az
+az11,11,"Torpaq, tikili və avadanlıqlar",account.data_account_type_fixed_assets,FALSE,,l10n_az
+az111,111,"Torpaq, tikili və avadanlıqların dəyəri",account.data_account_type_fixed_assets,FALSE,,l10n_az
+az112,112,"Torpaq, tikili və avadanlıqlar üzrə yığılmış amortizasiya və qiymətdəndüşmə zərərləri",account.data_account_type_fixed_assets,FALSE,,l10n_az
+az113,113,"Torpaq, tikili və avadanlıqlarla bağlı məsrəflərin kapitallaşdırılması",account.data_account_type_fixed_assets,FALSE,,l10n_az
+az12,12,İnvestisiya mülkiyyəti,account.data_account_type_fixed_assets,FALSE,,l10n_az
+az121,121,İnvestisiya mülkiyyətinin dəyəri,account.data_account_type_fixed_assets,FALSE,,l10n_az
+az122,122,İnvestisiya mülkiyyəti üzrə yığılmış amortizasiya və qiymətdəndüşmə zərərləri,account.data_account_type_fixed_assets,FALSE,,l10n_az
+az123,123,İnvestisiya mülkiyyəti ilə bağlı məsrəflərin kapitallaşdırılması,account.data_account_type_fixed_assets,FALSE,,l10n_az
+az13,13,Bioloji aktivlər,account.data_account_type_fixed_assets,FALSE,,l10n_az
+az131,131,Bioloji aktivlərin dəyəri,account.data_account_type_fixed_assets,FALSE,,l10n_az
+az132,132,Bioloji aktivlər üzrə yığılmış amortizasiya və qiymətdəndüşmə zərərləri,account.data_account_type_fixed_assets,FALSE,,l10n_az
+az14,14,Təbii sərvətlər,account.data_account_type_fixed_assets,FALSE,,l10n_az
+az141,141,Təbii sərvətlərin (ehtiyatların) dəyəri,account.data_account_type_fixed_assets,FALSE,,l10n_az
+az142,142,Təbii sərvətlərin (ehtiyatların) tükənməsi,account.data_account_type_fixed_assets,FALSE,,l10n_az
+az15,15,İştirak payı metodu ilə uçota alınmış investisiyalar,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az151,151,Asılı müəssisələrə investisiyalar,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az152,152,Birgə müəssisələrə investisiyalar,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az153,153,Asılı və birgə müəssisələrə investisiyaların dəyərinin azalmasına görə düzəlişlər,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az16,16,Təxirə salınmış vergi aktivləri,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az161,161,Mənfəət vergisi üzrə təxirə salınmış vergi aktivləri,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az162,162,Digər təxirə salınmış vergi aktivləri,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az17,17,Uzunmüddətli debitor borcları,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az171,171,Alıcıların və sifarişçilərin uzunmüddətli debitor borcları,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az172,172,Törəmə (asılı) müəssisələrin uzunmüddətli debitor borcları,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az173,173,Əsas idarəetmə heyətinin uzunmüddətli debitor borcları,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az174,174,İcarə üzrə uzunmüddətli debitor borcları,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az175,175,Tikinti müqavilələri üzrə uzunmüddətli debitor borcları,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az176,176,Faizlər üzrə uzunmüddətli debitor borcları,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az177,177,Digər uzunmüddətli debitor borcları,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az18,18,Sair uzunmüddətli maliyyə aktivləri,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az181,181,Ödənişə qədər saxlanılan uzunmüddətli investisiyalar,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az182,182,Verilmiş uzunmüddətli borclar,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az183,183,Digər uzunmüddətli investisiyalar,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az184,184,Sair uzunmüddətli maliyyə aktivlərinin dəyərinin azalmasına görə düzəlişlər,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az19,19,Sair uzunmüddətli aktivlər,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az191,191,Gələcək hesabat dövrlərinin xərcləri,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az192,192,Verilmiş uzunmüddətli avanslar,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az193,193,Digər uzunmüddətli aktivlər,account.data_account_type_non_current_assets,FALSE,,l10n_az
+az20,20,Ehtiyatlar,account.data_account_type_current_assets,FALSE,,l10n_az
+az201,201,Material ehtiyatları,account.data_account_type_current_assets,FALSE,,l10n_az
+az202,202,İstehsalat (iş və xidmət) məsrəfləri,account.data_account_type_current_assets,FALSE,,l10n_az
+az203,203,Tikinti müqavilələri üzrə məsrəflər,account.data_account_type_current_assets,FALSE,,l10n_az
+az204,204,Hazır məhsul,account.data_account_type_current_assets,FALSE,,l10n_az
+az205,205,Mallar,account.data_account_type_current_assets,FALSE,,l10n_az
+az206,206,Satış məqsədi ilə saxlanılan digər aktivlər,account.data_account_type_current_assets,FALSE,,l10n_az
+az207,207,Digər ehtiyatlar,account.data_account_type_current_assets,FALSE,,l10n_az
+az208,208,Ehtiyatların dəyərinin azalmasına görə düzəlişlər,account.data_account_type_current_assets,FALSE,,l10n_az
+az21,21,Qısamüddətli debitor borcları,account.data_account_type_receivable,TRUE,,l10n_az
+az211,211,Alıcıların və sifarişçilərin qısamüddətli debitor borcları,account.data_account_type_receivable,TRUE,,l10n_az
+az212,212,Törəmə (asılı) müəssisələrin qısamüddətli debitor borcları,account.data_account_type_receivable,TRUE,,l10n_az
+az213,213,Əsas idarəetmə heyətinin qısamüddətli debitor borcları,account.data_account_type_receivable,TRUE,,l10n_az
+az214,214,İcarə üzrə qısamüddətli debitor borcları,account.data_account_type_receivable,TRUE,,l10n_az
+az215,215,Tikinti müqavilələri üzrə qısamüddətli debitor borcları,account.data_account_type_receivable,TRUE,,l10n_az
+az216,216,Faizlər üzrə qısamüddətli debitor borcları,account.data_account_type_receivable,TRUE,,l10n_az
+az217,217,Digər qısamüddətli debitor borcları,account.data_account_type_receivable,TRUE,,l10n_az
+az218,218,Şübhəli borclar üzrə düzəlişlər,account.data_account_type_receivable,TRUE,,l10n_az
+az22,22,Pul vəsaitləri və onların ekvivalentləri,account.data_account_type_liquidity,FALSE,,l10n_az
+az221,221,Kassa,account.data_account_type_liquidity,FALSE,,l10n_az
+az222,222,Yolda olan pul köçürmələri,account.data_account_type_liquidity,FALSE,,l10n_az
+az223,223,Bank hesablaşma hesabları,account.data_account_type_liquidity,FALSE,,l10n_az
+az224,224,Tələblərə əsasən açılan digər bank hesabları,account.data_account_type_liquidity,FALSE,,l10n_az
+az225,225,Pul vəsaitlərinin ekvivalentləri,account.data_account_type_liquidity,FALSE,,l10n_az
+az226,226,ƏDV sub-uçot hesabı,account.data_account_type_liquidity,FALSE,,l10n_az
+az23,23,Sair qısamüddətli maliyyə aktivləri,account.data_account_type_current_assets,FALSE,,l10n_az
+az231,231,Satış məqsədi ilə saxlanılan qısamüddətli investisiyalar,account.data_account_type_current_assets,FALSE,,l10n_az
+az232,232,Ödənişə qədər saxlanılan qısamüddətli investisiyalar,account.data_account_type_current_assets,FALSE,,l10n_az
+az233,233,Verilmiş qısamüddətli borclar,account.data_account_type_current_assets,FALSE,,l10n_az
+az234,234,Digər qısamüddətli investisiyalar,account.data_account_type_current_assets,FALSE,,l10n_az
+az235,235,Sair qısamüddətli maliyyə aktivlərinin dəyərinin azalmasına görə düzəlişlər,account.data_account_type_current_assets,FALSE,,l10n_az
+az24,24,Sair qısamüddətli aktivlər,account.data_account_type_current_assets,FALSE,,l10n_az
+az241,241,Əvəzləşdirilən vergilər,account.data_account_type_current_assets,FALSE,,l10n_az
+az242,242,Gələcək hesabat dövrünün xərcləri,account.data_account_type_current_assets,FALSE,,l10n_az
+az243,243,Verilmiş qısamüddətli avanslar,account.data_account_type_current_assets,FALSE,,l10n_az
+az244,244,Təhtəlhesab məbləğlər,account.data_account_type_current_assets,FALSE,,l10n_az
+az245,245,Digər qısamüddətli aktivlər,account.data_account_type_current_assets,FALSE,,l10n_az
+az30,30,Ödənilmiş nizamnamə (nominal) kapital,account.data_account_type_equity,FALSE,account.account_tag_investing,l10n_az
+az301,301,Nizamnamə (nominal) kapitalı,account.data_account_type_equity,FALSE,account.account_tag_investing,l10n_az
+az302,302,Nizamnamə (nominal) kapitalın ödənilməmiş hissəsi,account.data_account_type_equity,FALSE,account.account_tag_investing,l10n_az
+az31,31,Emissiya gəliri,account.data_account_type_equity,FALSE,account.account_tag_investing,l10n_az
+az311,311,Emissiya gəliri,account.data_account_type_equity,FALSE,account.account_tag_investing,l10n_az
+az32,32,Geri alınmış kapital (səhmlər),account.data_account_type_equity,FALSE,account.account_tag_investing,l10n_az
+az321,321,Geri alınmış kapital (səhmlər),account.data_account_type_equity,FALSE,account.account_tag_investing,l10n_az
+az33,33,Kapital ehtiyatları,account.data_account_type_equity,FALSE,account.account_tag_investing,l10n_az
+az331,331,Yenidən qiymətləndirilmə üzrə ehtiyat,account.data_account_type_equity,FALSE,account.account_tag_investing,l10n_az
+az332,332,Məzənnə fərgləri üzrə ehtiyat,account.data_account_type_equity,FALSE,account.account_tag_investing,l10n_az
+az333,333,Qanunvericilik üzrə ehtiyat,account.data_account_type_equity,FALSE,account.account_tag_investing,l10n_az
+az334,334,Nizamnamə üzrə ehtiyat,account.data_account_type_equity,FALSE,account.account_tag_investing,l10n_az
+az335,335,Digər ehtiyatlar,account.data_account_type_equity,FALSE,account.account_tag_investing,l10n_az
+az34,34,Bölüşdürülməmiş mənfəət (ödənilməmiş zərər),account.data_account_type_equity,FALSE,,l10n_az
+az342,342,Mühasibat uçotu siyasətində dəyişikliklərlə bağlı mənfəət (zərər) üzrə düzəlişlər,account.data_account_type_equity,FALSE,,l10n_az
+az343,343,Keçmiş illər üzrə bölühdürülməmiş mənfəət (ödənilməmiş zərər),account.data_account_type_equity,FALSE,,l10n_az
+az344,344,Elan edilmiş dividentlər,account.data_account_type_equity,FALSE,account.account_tag_investing,l10n_az
+az40,40,Uzunmüddətli faiz xərcləri yaradan öhdəliklər,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az401,401,Uzunmüddətli bank kreditləri,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az402,402,İşçilər üçün uzunmüddətli bank kreditləri,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az403,403,Uzunmüddətli konvertasiya olunan istiqrazlar,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az404,404,Uzunmüddətli borclar,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az405,405,Geri alınan məhdud tədavül müddətli imtiyazlı səhmlər(uzunmüddətli),account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az406,406,Maliyyə icarəsi üzrə uzunmüddətli öhdəliklər,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az407,407,Törəmə(asılı) müəssisələrə uzunmüddətli faiz xərcləri yaradan öhdəliklər,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az408,408,Digər uzunmüddətli faiz xərcləri yaradan öhdəliklər,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az41,41,Uzunmüddətli qiymətləndirilmiş öhdəliklər,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az411,411,İşdən azad olma ilə bağlı uzunmüddətli müavinətlər və öhdəliklər,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az412,412,Uzunmüddətli zəmanət öhdəlikləri,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az413,413,Uzunmüddətli hüquqi öhdəliklər,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az414,414,Digər uzunmüddətli qiymətləndirilmiş öhdəliklər,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az414-1,414-1,Sığorta müqavilələri üzrə uzunmüddətli öhdəliklər,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az42,42,Təxirə salınmış vergi öhdəlikləri,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az421,421,Mənfəət vergisi üzrə təxirə salınmış vergi öhdəlikləri,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az422,422,Digər təxirə salınmış vergi öhdəliklər,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az43,43,Uzunmüddətli kreditor borcları,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az431,431,Malsatan və podratçılara uzunmüddətli kreditor borcları,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az432,432,Törəmə(asılı) cəmiyyətlərə uzunmüddətli kreditor borcları,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az433,433,Tikinti müqavilələri üzrə uzunmüddətli kreditor borcları,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az434,434,Faizlər üzrə uzunmüddətli kreditor borcları,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az435,435,Digər uzunmüddətli kreditor borcları,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az44,44,Sair uzunmüddətli öhdəliklər,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az441,441,Uzunmüddətli pensiya öhdəlikləri,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az442,442,Gələcək hesabat dövrlərinin gəlirləri,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az443,443,Alınmış uzunmüddətli avanslar,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az444,444,Uzunmüddətli məqsədli maliyyələşmələr və daxilolmalar,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az445,445,Digər uzunmüddətli öhdəliklər,account.data_account_type_non_current_liabilities,FALSE,,l10n_az
+az50,50,Qısamüddətli faiz xərcləri yaradan öhdəliklər,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az501,501,Qısamüddətli bank kreditləri,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az501-1,501-1,Bank overdraftı,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az502,502,İşçilər üçün qısamüddətli bank kreditləri,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az503,503,Qısamüddətli konvertasiya olunan istiqrazlar,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az504,504,Qısamüddətli borclar,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az505,505,Geri alınan məhdud tədavül müddətli imtiyazlı səhmlər(qısamüddətli),account.data_account_type_current_liabilities,FALSE,,l10n_az
+az506,506,Törəmə(asılı) müəssisələrə qısamüddətli faiz xərcləri yaradan öhdəliklər,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az507,507,Digər qısamüddətli faiz xərcləri yaradan öhdəliklər,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az51,51,Qısamüddətli qiymətləndirilmiş öhdəliklər,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az511,511,İşdən azad olma ilə bağlı qısamüddətli müavinətlər və öhdəliklər,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az512,512,Qısamüddətli zəmanət öhdəlikləri,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az513,513,Qısamüddətli hüquqi öhdəliklər,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az514,514,Mənfəətdə iştirak planı və müavinət planları,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az515,515,Digər qısamüddətli qiymətləndirilmiş öhdəliklər,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az515-1,515-1,Sığorta müqavilələri üzrə qısamüddətli öhdəliklər,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az52,52,Vergi və sair məcburi ödənişlər üzrə öhdəliklər,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az521,521,Vergi öhdəlikləri,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az521-1,521-1,Muzdlu işçinin gəlir vergisi,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az521-2,521-2,Mənfəət vergiis,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az522,522,Sosial sığorta və təminat üzrə öhdəliklər,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az522-1,522-1,İşçi sosial müdafiə fondu,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az522-2,522-2,İşçi işsizlik sığortası,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az522-3,522-3,İşçi icbari sığorta,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az522-4,522-4,İşəgötürən sosial müdafiə fondu,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az522-5,522-5,İşəgötürən işsizlik sığortası,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az522-6,522-6,İşəgötürən icbari sığorta,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az523,523,Digər məcburi ödənişlər üzrə öhdəliklər,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az53,53,Qısamüddətli kreditor borcları,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az531,531,Malsatan və podratçılara qısamüddətli kreditor borcları,account.data_account_type_payable,TRUE,,l10n_az
+az532,532,Törəmə(asılı) müəssisələrə qısamüddətli kreditor borcları,account.data_account_type_payable,TRUE,,l10n_az
+az533,533,Əməyin ödənişi üzrə işçi heyətinə olan borclar,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az534,534,Dividendlərin ödənilməsi üzrə təsisçilərə kreditor borcları,account.data_account_type_payable,TRUE,,l10n_az
+az535,535,İcarə üzrə qısamüddətli kreditor borcları,account.data_account_type_payable,TRUE,,l10n_az
+az536,536,Tikinti müqavilələri üzrə qısamüddətli kreditor borcları,account.data_account_type_payable,TRUE,,l10n_az
+az537,537,Faizlər üzrə qısamüddətli kreditor borcları,account.data_account_type_payable,TRUE,,l10n_az
+az538,538,Digər qısamüddətli kreditor borcları,account.data_account_type_payable,TRUE,,l10n_az
+az54,54,Sair qısamüddətli öhdəliklər,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az541,541,Qısamüddətli pensiya öhdəlikləri,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az542,542,Gələcək hesabat dövrünün gəlirləri,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az543,543,Alınmış qısamüddətli avanslar,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az544,544,Qisamüddətli məqsədli maliyyələşmələr və daxilolmalar,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az545,545,Digər qısamüddətli öhdəliklər,account.data_account_type_current_liabilities,FALSE,,l10n_az
+az60,60,Əsas əməliyyat gəliri,account.data_account_type_revenue,FALSE,account.account_tag_operating,l10n_az
+az601,601,Satış,account.data_account_type_revenue,FALSE,account.account_tag_operating,l10n_az
+az602,602,Satılmış malların qaytarılması və ucuzlaşdırılması,account.data_account_type_revenue,FALSE,account.account_tag_operating,l10n_az
+az603,603,Verilmiş güzəştlər,account.data_account_type_revenue,FALSE,account.account_tag_operating,l10n_az
+az61,61,Sair əməliyyat gəlirləri,account.data_account_type_other_income,FALSE,account.account_tag_operating,l10n_az
+az611,611,Sair əməliyyat gəlirləri,account.data_account_type_other_income,FALSE,account.account_tag_operating,l10n_az
+az62,62,Fəaliyyətin dayandırılmasından yaranan gəlirlər,account.data_account_type_other_income,FALSE,account.account_tag_operating,l10n_az
+az621,621,Fəaliyyətin dayandırılmasından yaranan gəlirlər,account.data_account_type_other_income,FALSE,account.account_tag_operating,l10n_az
+az63,63,Maliyyə gəlirləri,account.data_account_type_other_income,FALSE,account.account_tag_financing,l10n_az
+az631,631,Maliyyə gəlirləri,account.data_account_type_other_income,FALSE,account.account_tag_financing,l10n_az
+az64,64,Fövqəladə gəlirlər,account.data_account_type_other_income,FALSE,account.account_tag_operating,l10n_az
+az641,641,Fövqəladə gəlirlər,account.data_account_type_other_income,FALSE,account.account_tag_operating,l10n_az
+az70,70,Satışın maya dəyəri üzrə xərclər,account.data_account_type_direct_costs,FALSE,account.account_tag_operating,l10n_az
+az701,701,Satışın maya dəyəri üzrə xərclər,account.data_account_type_direct_costs,FALSE,account.account_tag_operating,l10n_az
+az71,71,Kommersiya xərcləri,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az711,711,Kommersiya xərcləri,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az72,72,İnzibati xərclər,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az721,721,İnzibati xərclər,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az721-1,721-1,Əmək haqqı xərcləri,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az721-2,721-2,Əmək haqqına əlavələr,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az721-3,721-3,Vergi və sosial müavinat xərcləri,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az73,73,Sair əməliyyat xərcləri,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az731,731,Sair əməliyyat xərcləri,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az74,74,Fəaliyyətin dayandırılmasından yaranan xərclər,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az741,741,Fəaliyyətin dayandırılmasından yaranan xərclər,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az75,75,Maliyyə xərcləri,account.data_account_type_expenses,FALSE,account.account_tag_financing,l10n_az
+az751,751,Maliyyə xərcləri,account.data_account_type_expenses,FALSE,account.account_tag_financing,l10n_az
+az76,76,Fövqəladə xərclər,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az761,761,Fövqəladə xərclər,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az90,90,Mənfəət vergisi,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az901,901,Cari mənfəət vergisi üzrə xərclər,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az902,902,Təxirə salınmış mənfəət vergisi üzrə xərclər,account.data_account_type_expenses,FALSE,account.account_tag_operating,l10n_az
+az201-1,201-1,Stock Input,account.data_account_type_current_assets,TRUE,,l10n_az
+az201-2,201-2,Stock Output,account.data_account_type_current_assets,TRUE,,l10n_az
+az521-3,521-3,Kəsilmiş qaimələrin ƏDV-i,account.data_account_type_current_liabilities,FALSE,,l10n_az

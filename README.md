@@ -1,1 +1,1 @@
-# l10n_az
+# odoo-apps

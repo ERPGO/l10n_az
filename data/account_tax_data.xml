@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+
+    <record id="ST01" model="account.tax.template">
+        <field name="description">ƏDV 18%</field>
+        <field name="chart_template_id" ref="l10n_az"/>
+        <field name="type_tax_use">sale</field>
+        <field name="name">Satışdan ƏDV (18%)</field>
+        <field name="amount_type">percent</field>
+        <field name="amount">18</field>
+        <field name="tax_group_id" ref="tax_group_0"/>
+		<field name="invoice_repartition_line_ids" eval="[(5,0,0),
+            (0,0, {
+                'factor_percent': 100,
+                'repartition_type': 'base',
+            }),
+            (0,0, {
+                'factor_percent': 100,
+                'repartition_type': 'tax',
+                'account_id': ref('az521-3'),
+            }),
+        ]"/>
+        <field name="refund_repartition_line_ids" eval="[(5,0,0),
+            (0,0, {
+                'factor_percent': 100,
+                'repartition_type': 'base',
+            }),
+            (0,0, {
+                'factor_percent': 100,
+                'repartition_type': 'tax',
+                'account_id': ref('az521-3'),
+            }),
+        ]"/>
+     </record>
+
+
+    
+    <record id="PT01" model="account.tax.template">
+        <field name="description">ƏDV 18%</field>
+        <field name="chart_template_id" ref="l10n_az"/>
+        <field name="type_tax_use">purchase</field>
+        <field name="name">Alışdan ƏDV (18%)</field>
+        <field name="amount_type">percent</field>
+        <field name="amount">18</field>
+        <field name="tax_group_id" ref="tax_group_0"/>
+		<field name="invoice_repartition_line_ids" eval="[(5,0,0),
+            (0,0, {
+                'factor_percent': 100,
+                'repartition_type': 'base',
+            }),
+            (0,0, {
+                'factor_percent': 100,
+                'repartition_type': 'tax',
+                'account_id': ref('az241'),
+            }),
+        ]"/>
+        <field name="refund_repartition_line_ids" eval="[(5,0,0),
+            (0,0, {
+                'factor_percent': 100,
+                'repartition_type': 'base',
+            }),
+            (0,0, {
+                'factor_percent': 100,
+                'repartition_type': 'tax',
+                'account_id': ref('az521-3'),
+            }),
+        ]"/>
+    </record>
+
+</odoo>

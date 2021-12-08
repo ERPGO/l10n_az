@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="partner_demo_company_uk" model="res.partner">
+        <field name="name">AZ Company</field>
+        <field name="vat">19999999999</field>
+        <field name="street"></field>
+        <field name="city">Bakı</field>
+        <field name="country_id" ref="base.az"/>
+        <field name="zip">AZ10000</field>
+        <field name="phone">+994 12 499 88 77</field>
+        <field name="email">info@company.az</field>
+        <field name="website">www.company.az</field>
+    </record>
+
+    <record id="demo_company_az" model="res.company">
+        <field name="name">Şirkət</field>
+        <field name="partner_id" ref="partner_demo_company_az"/>
+    </record>
+
+    <function model="res.company" name="_onchange_country_id">
+        <value eval="[ref('demo_company_az')]"/>
+    </function>
+
+    <function model="res.users" name="write">
+        <value eval="[ref('base.user_root'), ref('base.user_admin'), ref('base.user_demo')]"/>
+        <value eval="{'company_ids': [(4, ref('l10n_az.demo_company_az'))]}"/>
+    </function>
+
+    <function model="account.chart.template" name="try_loading">
+        <value eval="[ref('l10n_az.l10n_az')]"/>
+        <value model="res.company" eval="obj().env.ref('l10n_az.demo_company_az')"/>
+    </function>
+</odoo>
