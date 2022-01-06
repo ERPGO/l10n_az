@@ -32,5 +32,6 @@ This is the latest Accounting localisation aligned for Azerbaijani legislation
     'installable': True,
     'application': True,
     'auto-install': False,
+    'post_init_hook': 'post_init_hook'
 }
 
