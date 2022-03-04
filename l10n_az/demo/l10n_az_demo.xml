@@ -9,7 +9,7 @@
             <field name="city">Bakı</field>
             <field name="country_id" ref="base.az"/>
             <field name="phone">+994 50 228 52 29</field>
-            <field name="website">http://www.erpgo.az</field>
+            <field name="website">http://erpgo.az</field>
             <field name="email">info@erpgo.az</field>
         </record>
 
